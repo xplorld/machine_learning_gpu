@@ -1,4 +1,4 @@
-FROM cmudeeplearning11785/machine_learning_gpu_base
+FROM xplorld/machine_learning_gpu_base
 
 #-----------------------------------
 # Sphinx
